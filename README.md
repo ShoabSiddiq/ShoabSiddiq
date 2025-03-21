@@ -27,6 +27,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoabsiddiq&" alt="shoabsiddiq" /></p>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=The+Sneaky+Serpent+%F0%9F%90%8D" alt="Typing SVG" />
+  </a>
+</div>
+
+
+
 ![snake gif](https://github.com/ShoabSiddiq/ShoabSiddiq/blob/output/github-snake-dark.svg)
 
 
