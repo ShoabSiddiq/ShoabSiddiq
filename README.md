@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shoab Siddiq</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shoab+Siddiq;Welcome+to+my+Profile" alt="Typing SVG" /></a>
 <h3 align="center">Motivated and detail-oriented Computer Science graduate from Daffodil International University with a strong foundation in programming, machine learning, deep learning-based image processing, and web development. Proficient in technologies like PHP (Laravel), SQL, and Microsoft Office tools. Passionate about advancing knowledge in artificial intelligence, data science, and optimization techniques. Holds certifications in Laravel, web development, and AI-driven optimization. </h3>
 
 
