@@ -27,4 +27,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoabsiddiq&" alt="shoabsiddiq" /></p>
 
+![snake gif](https://github.com/ShoabSiddiq/ShoabSiddiq/blob/output/github-snake-dark.svg)
+
 
